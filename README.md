@@ -24,11 +24,11 @@ Understand what makes a password strong and test various passwords using free on
 
 | Password            | Score | Feedback Summary                     |
 |---------------------|-------|--------------------------------------|
-| `john123`           | 25%   | Very weak, lacks complexity          |
-| `John@2024`         | 65%   | Fair, uses symbol and capital letter |
+| `john123`           | 37%   | Very weak, lacks complexity          |
+| `John@2024`         | 93%   | Fair, uses symbol and capital letter |
 | `J@hnSecure!2025`   | 100%  | Strong password with good complexity |
-| `123456`            | 10%   | Extremely weak, common password      |
-| `!ILoveCoding786!`  | 90%   | Long, unique, strong passphrase      |
+| `123456`            | 4%   | Extremely weak, common password      |
+| `!ILoveCoding786!`  | 100%   | Long, unique, strong passphrase      |
 
 📸 Screenshots are included in the `screenshots/` folder.
 
