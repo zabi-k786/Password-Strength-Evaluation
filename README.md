@@ -11,12 +11,12 @@ Understand what makes a password strong and test various passwords using free on
 
 1. **Created multiple passwords** with variations in:
    - Length
-   - Use of uppercase, lowercase
-   - Numbers and symbols
+   - Use of uppercase and lowercase letters
+   - Inclusion of numbers and special characters
 
-2. **Tested passwords** on [https://www.passwordmeter.com/](https://www.passwordmeter.com/) and recorded their strength.
+2. **Tested passwords** using [Password Meter](https://www.passwordmeter.com/) and recorded their strength scores.
 
-3. **Collected feedback** provided by the tool.
+3. **Collected feedback** provided by the tool and analyzed which practices make passwords stronger.
 
 ---
 
@@ -24,11 +24,11 @@ Understand what makes a password strong and test various passwords using free on
 
 | Password            | Score | Feedback Summary                     |
 |---------------------|-------|--------------------------------------|
-| `john123`           | 37%   | Very weak, lacks complexity          |
-| `John@2024`         | 93%   | Fair, uses symbol and capital letter |
-| `J@hnSecure!2025`   | 100%  | Strong password with good complexity |
-| `123456`            | 4%   | Extremely weak, common password      |
-| `!ILoveCoding786!`  | 100%   | Long, unique, strong passphrase      |
+| `john123`           | 37%   | Very weak; lacks complexity          |
+| `John@2024`         | 93%   | Stronger with symbol and capital     |
+| `J@hnSecure!2025`   | 100%  | Very strong; excellent complexity    |
+| `123456`            | 4%    | Extremely weak; very common          |
+| `!ILoveCoding786!`  | 100%  | Long, unique, and secure passphrase  |
 
 📸 Screenshots are included in the `screenshots/` folder.
 
@@ -37,10 +37,10 @@ Understand what makes a password strong and test various passwords using free on
 ## 🧠 Tips Learned
 
 - Use at least **12 characters** in a password.
-- Include **uppercase, lowercase, numbers, and special characters**.
-- Avoid using **dictionary words or predictable patterns**.
-- Use **passphrases** (e.g., `ILoveSunsets2025!`) — easy to remember, hard to guess.
-- Never **reuse** passwords across platforms.
+- Combine **uppercase, lowercase, numbers, and special characters**.
+- Avoid common patterns, dictionary words, or personal info.
+- **Passphrases** (e.g., `ILoveSunsets2025!`) are both memorable and strong.
+- Never reuse passwords across different platforms or accounts.
 
 ---
 
@@ -48,14 +48,14 @@ Understand what makes a password strong and test various passwords using free on
 
 | Attack Type         | Description |
 |---------------------|-------------|
-| Brute Force         | Tries all possible combinations until the correct one is found. |
-| Dictionary Attack   | Uses a list of common passwords or words to guess. |
-| Phishing            | Tricks users into giving away passwords through fake links or emails. |
-| Credential Stuffing | Tries stolen username-password pairs from data breaches. |
+| **Brute Force**         | Tries all possible combinations until the correct password is found. |
+| **Dictionary Attack**   | Uses a list of common or leaked passwords to guess credentials. |
+| **Phishing**            | Tricks users into revealing passwords via fake websites or emails. |
+| **Credential Stuffing** | Tries known username-password pairs from previous data breaches. |
 
 ---
 
 ## 🔗 Tools Used
 
-- [https://www.passwordmeter.com/](https://www.passwordmeter.com/)
-- [https://www.security.org/how-secure-is-my-password/](https://www.security.org/how-secure-is-my-password/)
+- 🔗 [Password Meter](https://www.passwordmeter.com/)
+- 🔗 [Security.org Password Strength Tool](https://www.security.org/how-secure-is-my-password/)
