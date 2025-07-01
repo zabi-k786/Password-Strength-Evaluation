@@ -1,5 +1,6 @@
-# Cybersecurity Internship – Task 6: 
-#Password Strength Evaluation
+# Cybersecurity Internship – Task 6
+
+# Password Strength Evaluation
 
 ## 🔒 Objective
 Understand what makes a password strong and test various passwords using free online strength checkers.
